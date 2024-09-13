@@ -1,0 +1,11 @@
+name = input("Hey, what's your name?")
+
+print("nice to meet you", name)
+
+age = input("Hey, what's your Age?")
+
+print("My Age is 16 "),
+
+color = input("Hey, what's your fav color?")
+
+print("My fav color is Red"),
